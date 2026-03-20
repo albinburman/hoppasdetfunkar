@@ -1,7 +1,7 @@
 
 🍝 Carbonara (klassisk italiensk stil) Ingredienser (4 portioner)
 
-400 g spaghetti
+600 g spaghetti
 150 g pancetta eller bacon
 4 ägg
 1 dl riven parmesan
