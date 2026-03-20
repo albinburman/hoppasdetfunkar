@@ -3,7 +3,7 @@
 
 400 g spaghetti
 150 g pancetta eller bacon
-2 ägg
+4 ägg
 1 dl riven parmesan
 Salt
 Svartpeppar Gör så här
