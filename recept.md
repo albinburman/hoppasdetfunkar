@@ -1,9 +1,5 @@
-så får vi se hur det blir med det här
 
-det här ska tas bort det är endast ett test
-
-
-
+>>>>>>> parent of 62c6e1e (reverse commit)
 
 🍝 Carbonara (klassisk italiensk stil) Ingredienser (4 portioner)
 
