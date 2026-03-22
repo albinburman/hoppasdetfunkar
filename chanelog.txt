@@ -1,0 +1,17 @@
+# CHANGELOG
+
+## [2.0.0] - 2026-03-22
+### Added
+- färdigt recept la till allt 
+
+## [1.1.0] - 2026-03-20
+
+- la till ett helt recept.
+
+## [1.0.1] - 2026-03-18
+### Added
+- äggulor.
+
+
+### Version motivation
+Första stabila versionen.
