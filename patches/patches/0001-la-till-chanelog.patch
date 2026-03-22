@@ -1,0 +1,45 @@
+From fd9c61bea35fee8beed8f893e207d9d40c8f0743 Mon Sep 17 00:00:00 2001
+From: albin <albinburman25@gmail.com>
+Date: Sun, 22 Mar 2026 17:59:07 +0100
+Subject: [PATCH] la till chanelog
+
+---
+ chanelog.txt | 17 +++++++++++++++++
+ receptet.md  |  1 -
+ 2 files changed, 17 insertions(+), 1 deletion(-)
+ create mode 100644 chanelog.txt
+ delete mode 100644 receptet.md
+
+diff --git a/chanelog.txt b/chanelog.txt
+new file mode 100644
+index 0000000..1ce9b39
+--- /dev/null
++++ b/chanelog.txt
+@@ -0,0 +1,17 @@
++# CHANGELOG
++
++## [2.0.0] - 2026-03-22
++### Added
++- färdigt recept la till allt 
++
++## [1.1.0] - 2026-03-20
++
++- la till ett helt recept.
++
++## [1.0.1] - 2026-03-18
++### Added
++- äggulor.
++
++
++### Version motivation
++Första stabila versionen.
+diff --git a/receptet.md b/receptet.md
+deleted file mode 100644
+index 4a04f9f..0000000
+--- a/receptet.md
++++ /dev/null
+@@ -1 +0,0 @@
+-mitt carbonara recept
+-- 
+2.43.0
+
