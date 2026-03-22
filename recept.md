@@ -1,6 +1,4 @@
 
->>>>>>> parent of 62c6e1e (reverse commit)
-
 🍝 Carbonara (klassisk italiensk stil) Ingredienser (4 portioner)
 
 600 g spaghetti
