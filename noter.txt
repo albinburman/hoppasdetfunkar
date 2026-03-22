@@ -1,3 +1,12 @@
-jag använde git revert för att ta bort 62c6e1e för att jag råkade 
-skriva fel på receptet 
+
+2026-03-22 62c6e1e (revert)
+jag använde git revert för att jag råkade skriva fel på receptet 
+
+2026-03-22 
+jag använde kommandot "git format-patch -1 (commit-id) -o patches/"
+det skapade en patchfil i katalogen patches/
+jag använde sedan git am för att automatisk skapar en commit
+baserat på patchfilens meta data 
+
+ 
 
